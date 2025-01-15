@@ -1,6 +1,6 @@
 # LED Chaser Wand
 
-This repository contains the files and documentation for the **LED Chaser Wand** project. The wand is powered by a single AA battery and uses a 555 timer, SN74H counter, and CD74HC138 decoder to create a chaser effect with 8 LEDs arranged on a PCB shaped like a wand.
+This repository contains the files and documentation for the **LED Chaser Wand** project. The wand is powered by a 3 AA batteries and uses a 555 timer, SN74H counter, and CD74HC138 decoder to create a chaser effect with 8 LEDs arranged on a PCB shaped like a wand.
 
 ## Project Overview
 
