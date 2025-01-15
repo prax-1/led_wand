@@ -40,6 +40,8 @@ This repository contains the files and documentation for the **LED Chaser Wand**
 ![Design_3d](images/3d_pcb.png)
 
 
+Full project can be accessed [here](https://365.altium.com/files/B7BB18DC-DD6F-4DEC-AF6C-1B5112F59831)
+
 ## License
 This project is licensed under the MIT License. See the *LICENSE* file for more details.
 
