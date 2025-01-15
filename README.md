@@ -25,19 +25,19 @@ This repository contains the files and documentation for the **LED Chaser Wand**
 - `Schematic.png`: Circuit schematic showing the connections between components.
 - `Components_List.txt`: Detailed list of all components used.
 
-### Source Code
-- `src/code.ino`: Arduino-compatible code to simulate the chaser effect (optional if using microcontroller).
-
-### Images
-- `wand_front_view.jpg`: Front view of the assembled wand.
-- `wand_back_view.jpg`: Back view of the assembled wand.
-- `led_chaser_effect.gif`: Animated GIF showing the chaser effect in action.
+### Schematic
+![Schematic](/images/schematic.png)
 
 ## Assembly Instructions
 1. **Prepare Components:** Gather all the components listed in `Components_List.txt`.
 2. **Assemble the Circuit:** Follow the schematic in `Schematic.png` to solder components onto the PCB.
 3. **Power the Wand:** Insert the AA battery to power the circuit.
 4. **Enjoy the Effect:** Watch as the LEDs create a chaser effect.
+
+### Design
+![Design_2d](images/2d_pcb.png)
+![Design_3d](images/3d_pcb.png)
+
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
